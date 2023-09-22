@@ -1,0 +1,52 @@
+@media(min-width:320px) and (max-width:676px){
+	.unique_feature_sec .col-md-3{
+		width: 100%!important;
+		flex:100%!important;
+	}
+	.about_banner{
+		padding: 50px 0;
+	}
+	.unique_feature_sec, .benefits_sec{
+		padding: 50px 0!important;
+	}
+	.mobile_images{
+		display: none;
+	}
+	.col-md-6.pricing_col_6_first, .col-md-6.pricing_col_6_third, .col-md-6.pricing_col_6_second, .col-md-6.pricing_col_6_fourth{
+		width: 90%;
+	    max-width: 90%;
+	    margin: 0 auto;
+	    margin-top: 30px;
+	}
+	.row_check_white{
+	  margin-top: 0px;
+	}
+	.pricing_sec_personal .pricing{
+		margin-top: 50px;
+	}
+	.recommended{
+		top: 26px!important;
+	}
+	.mob_right{
+		margin-top: 20px;
+	}
+	.admin_banner_image{
+		margin-top: 50px;
+	}
+	.pricing_sec .pricing{
+		margin-top: 50px;
+	}
+	.contact_talk_to{
+		background: none!important;
+	}
+	.pricing_sec{
+		background-image: -webkit-linear-gradient(100deg, #000 98%, #ffffff 50%);
+    	padding: 100px 0 150px;
+	}
+	.crm_content_right{
+		margin-top: 50px;
+	}
+	.mt_4_banner{
+		padding: 50px 0;
+	}
+}
